@@ -7,7 +7,8 @@ Koa 2 RESTful API using :
  - Mongodb + Mongoose
  - Babel
  - Asynchronous Functions (Async/Await)
-
+ - restc
+ 
 ## Running
 Install dependencies
 ```
