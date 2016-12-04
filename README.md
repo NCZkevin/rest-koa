@@ -1,4 +1,4 @@
-# Koa 2 Restful Boilerplate [![Circle CI](https://circleci.com/gh/jsnomad/koa-restful-boilerplate.svg?style=svg)](https://circleci.com/gh/jsnomad/koa-restful-boilerplate)
+# Koa 2 Restful [![Circle CI](https://circleci.com/gh/jsnomad/koa-restful-boilerplate.svg?style=svg)](https://circleci.com/gh/jsnomad/koa-restful-boilerplate)
 
 ## Description
 Koa 2 RESTful API using :
@@ -32,4 +32,4 @@ npm run prod
 **Note : Please make sure your MongoDB is running before using ```npm start``` or ```npm run prod```**
 
 ## License
-MIT &copy; [Thomas Blanc-Hector](https://github.com/jsnomad)
+MIT &copy; [NCZkevin](https://github.com/nczkevin)
